@@ -9,3 +9,7 @@ This repository contains Jupyter notebooks implementing and demonstrating five c
 5. **Reinforcement Learning (RL)**
 
 ---
+## Requirements
+Install dependencies:
+```bash
+pip install -r requirements.txt
